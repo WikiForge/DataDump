@@ -1,5 +1,5 @@
 {
-	"name": "miraheze/data-dump",
+	"name": "wikiforge/data-dump",
 	"type": "mediawiki-extension",
 	"description": "DataDump is a MediaWiki extension that allows you to generate, delete or download a dump of the wiki.",
 	"homepage": "https://www.mediawiki.org/wiki/Extension:DataDump",
@@ -13,7 +13,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://phabricator.miraheze.org/tag/datadump/",
+		"issues": "https://support.wikiforge.net/tag/datadump/",
 		"wiki": "https://www.mediawiki.org/wiki/Extension:DataDump"
 	},
 	"require": {
